@@ -135,10 +135,8 @@ The system analyzes conversation snippets to extract:
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
-```plaintext
-deal-intelligence-agent/
+Conversation-Intelligence-Agent
 │
 ├── frontend/                          # React Frontend (UI Layer)
 │   ├── src/
@@ -192,13 +190,12 @@ deal-intelligence-agent/
    - Acts as a live assistant during conversation
 
 ---
----
 
 ## ⚙️ Installation & Setup
 
 ### 🔧 Backend Setup
 
-```bash
+bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
@@ -240,11 +237,19 @@ CRM integration
 Voice emotion detection
 
 -------
+
+Demo Video Link: 
+https://drive.google.com/file/d/1RGhI0kzTbeVKgixvKcPFlDvq4vB0EVkH/view?usp=drivesdk
+
  Team Members
+
 [Sreeja Goundla]
 [Sindhu Reddy]
 [Shaiinit varsha]
 [akshaya]
 [Bindhu]
+
+------
 🏆 Acknowledgment
+
 This project was developed as part of a hackathon to explore the potential of AI in real-time decision support systems.
